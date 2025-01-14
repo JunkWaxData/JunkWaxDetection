@@ -1,4 +1,4 @@
-# Junk Wax Sports Cards Object Detection Model 🎴🏀⚾
+# Junk Wax Sports Cards Object Detection Model 🎴⚾
 
 Welcome to the repository **JunkWaxDetection**, hosted by the GitHub organization **JunkWaxData**. This ONNX machine learning model is designed to identify sports cards from the overproduced "junk wax" era (1985–1994), with exceptional precision and recall metrics. Whether you're a collector, seller, or enthusiast, this model can streamline the identification of cards from various iconic sets.JunkWaxData.com\*\*. This ONNX machine learning model is designed to identify sports cards from the overproduced "junk wax" era (1985–1994), with exceptional precision and recall metrics. Whether you're a collector, seller, or enthusiast, this model can streamline the identification of cards from various iconic sets.
 
