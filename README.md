@@ -17,21 +17,21 @@ Welcome to the repository **JunkWaxDetection**, hosted by the GitHub organizatio
 
 | Tag             | Precision | Recall | Average Precision (AP) |
 | --------------- | --------- | ------ | ---------------------- |
+| 1984 Topps      | 100.0%    | 100.0% | 100.0%                 |
+| 1987 Topps      | 100.0%    | 100.0% | 100.0%                 |
+| 1988 Topps      | 100.0%    | 95.8%  | 100.0%                 |
 | 1989 Upper Deck | 100.0%    | 92.3%  | 100.0%                 |
 | 1989 Fleer      | 100.0%    | 100.0% | 100.0%                 |
-| 1990 Topps      | 100.0%    | 100.0% | 100.0%                 |
-| 1991 Upper Deck | 100.0%    | 100.0% | 100.0%                 |
-| 1984 Topps      | 100.0%    | 100.0% | 100.0%                 |
-| 1990 Donruss    | 100.0%    | 100.0% | 100.0%                 |
-| 1988 Topps      | 100.0%    | 95.8%  | 100.0%                 |
-| 1987 Topps      | 100.0%    | 100.0% | 100.0%                 |
 | 1989 Bowman     | 100.0%    | 94.7%  | 100.0%                 |
+| 1989 Topps      | 95.2%     | 100.0% | 100.0%                 |
+| 1990 Topps      | 100.0%    | 100.0% | 100.0%                 |
+| 1990 Donruss    | 100.0%    | 100.0% | 100.0%                 |
+| 1991 Upper Deck | 100.0%    | 100.0% | 100.0%                 |
+| 1992 Upper Deck | 95.7%     | 91.7%  | 95.5%                  |
 | 1993 Topps      | 100.0%    | 100.0% | 100.0%                 |
 | 1994 Score      | 100.0%    | 100.0% | 100.0%                 |
-| 1992 Upper Deck | 95.7%     | 91.7%  | 95.5%                  |
-| 1989 Topps      | 95.2%     | 100.0% | 100.0%                 |
 
-## Repository Structure 📂
+## Repository Structure 🗂
 
 - `model` - Contains the ONNX model file.
 - `src` - Example projects demonstrating how to use the model.
@@ -42,7 +42,7 @@ Welcome to the repository **JunkWaxDetection**, hosted by the GitHub organizatio
    ```bash
    git clone https://github.com/JunkWaxData/JunkWaxDetection.git
    ```
-2. Navigate to the `\src` folder for example code in various programming languages.
+2. Navigate to the `src` folder for example code in various programming languages.
 3. Load the model in your preferred framework and integrate it into your project.
 
 ## Example Frameworks 💻
@@ -63,5 +63,4 @@ This project is licensed under the [MIT License](LICENSE). By contributing, you 
 
 ## Contact 📬
 
-For any inquiries, please reach out to us at **[support@junkwaxdata.com](mailto\:support@junkwaxdata.com)**.
-
+For any inquiries, please reach out to us at **[eric@junkwaxdata.com](mailto\:eric@junkwaxdata.com)**.
