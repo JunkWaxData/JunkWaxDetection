@@ -3,9 +3,6 @@ This model is exported from [Custom Vision Service](https://customvision.ai)
 
 Please visit our [Sample scripts respository](https://github.com/Azure-Samples/customvision-export-samples).
 
-## Prerequisites
-(For TensorFlow Lite model) TensorFlow Lite 2.1 or newer
-
 ## Input specification
 This model expects 320x320, 3-channel RGB images. Pixel values need to be in the range of [0-255].
 
