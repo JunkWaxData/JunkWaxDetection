@@ -1,40 +1,50 @@
 # Junk Wax Sports Cards Object Detection Model 🎴⚾
 
-Welcome to the repository **JunkWaxDetection**, hosted by the GitHub organization **JunkWaxData**. This ONNX machine learning model is designed to identify sports cards from the overproduced "junk wax" era (1985–1994), with exceptional precision and recall metrics. Whether you're a collector, seller, or enthusiast, this model can streamline the identification of cards from various iconic sets.JunkWaxData.com\*\*. This ONNX machine learning model is designed to identify sports cards from the overproduced "junk wax" era (1985–1994), with exceptional precision and recall metrics. Whether you're a collector, seller, or enthusiast, this model can streamline the identification of cards from various iconic sets.
+Welcome to the repository **JunkWaxDetection**, hosted by the GitHub organization **JunkWaxData**. This Machine Learning model is designed to identify sports cards from the overproduced "junk wax" era (1985–1994), with exceptional precision and recall metrics. Whether you're a collector, seller, or enthusiast, this model can streamline the identification of cards from various iconic sets.
 
 ## Model Overview 🧠
 
-- **Model Version:** Iteration 13
+- **Model Version:** Iteration 17
 - **Domain:** General (compact) [S1]
 
 ### Performance Metrics 📊
 
-- **Precision:** 99.2%
-- **Recall:** 98.1%
-- **mAP:** 99.7%
+- **Precision:** 98.6%
+- **Recall:** 97.3%
+- **mAP:** 98.6%
 
 ### Performance Per Tag 🏷️
 
-| Tag             | Precision | Recall | Average Precision (AP) |
-| --------------- | --------- | ------ | ---------------------- |
-| 1984 Topps      | 100.0%    | 100.0% | 100.0%                 |
-| 1987 Topps      | 100.0%    | 100.0% | 100.0%                 |
-| 1988 Topps      | 100.0%    | 95.8%  | 100.0%                 |
-| 1989 Upper Deck | 100.0%    | 92.3%  | 100.0%                 |
-| 1989 Fleer      | 100.0%    | 100.0% | 100.0%                 |
-| 1989 Bowman     | 100.0%    | 94.7%  | 100.0%                 |
-| 1989 Topps      | 95.2%     | 100.0% | 100.0%                 |
-| 1990 Topps      | 100.0%    | 100.0% | 100.0%                 |
-| 1990 Donruss    | 100.0%    | 100.0% | 100.0%                 |
-| 1991 Upper Deck | 100.0%    | 100.0% | 100.0%                 |
-| 1992 Upper Deck | 95.7%     | 91.7%  | 95.5%                  |
-| 1993 Topps      | 100.0%    | 100.0% | 100.0%                 |
-| 1994 Score      | 100.0%    | 100.0% | 100.0%                 |
+| Tag              | Precision | Recall | Average Precision (AP) |
+| ---------------- | --------- | ------ | ---------------------- |
+| 1984 Topps       | 100.0%    | 100.0% | 100.0%                 |
+| 1987 Topps       | 100.0%    | 100.0% | 100.0%                 |
+| 1988 Score       | 100.0%    | 100.0% | 100.0%                 |
+| 1988 Topps       | 100.0%    | 100.0% | 100.0%                 |
+| 1989 Upper Deck  | 100.0%    | 92.3%  | 99.5%                  |
+| 1989 Fleer       | 100.0%    | 100.0% | 100.0%                 |
+| 1989 Bowman      | 94.7%     | 94.7%  | 99.7%                  |
+| 1989 Donruss     | 100.0%    | 94.7%  | 94.7%                  |
+| 1989 Score       | 100.0%    | 100.0% | 100.0%                 |
+| 1989 Topps       | 95.5%     | 100.0% | 99.6%                  |
+| 1990 Topps       | 100.0%    | 100.0% | 100.0%                 |
+| 1990 Donruss     | 100.0%    | 100.0% | 100.0%                 |
+| 1990 Leaf        | 100.0%    | 100.0% | 100.0%                 |
+| 1990 Leaf Pack   | 100.0%    | 100.0% | 100.0%                 |
+| 1991 Upper Deck  | 100.0%    | 89.5%  | 94.7%                  |
+| 1991 Leaf        | 100.0%    | 95.5%  | 95.5%                  |
+| 1992 Upper Deck  | 100.0%    | 87.5%  | 91.7%                  |
+| 1992 Fleer       | 95.5%     | 100.0% | 100.0%                 |
+| 1992 Fleer Ultra | 100.0%    | 100.0% | 100.0%                 |
+| 1992 Pinnacle    | 100.0%    | 100.0% | 100.0%                 |
+| 1993 Topps       | 90.9%     | 90.9%  | 94.9%                  |
+| 1994 Score       | 95.5%     | 95.5%  | 99.8%                  |
 
 ## Repository Structure 🗂
 
-- `model` - Contains the ONNX model file.
-- `src` - Example projects demonstrating how to use the model.
+- `model` - Contains the ONNX and TensorFlow model files.
+
+- `src` - Example projects demonstrating how to use the models.
 
 ## How to Use 🛠️
 
@@ -63,4 +73,5 @@ This project is licensed under the [MIT License](LICENSE). By contributing, you 
 
 ## Contact 📬
 
-For any inquiries, please reach out to us at **[eric@junkwaxdata.com](mailto\:eric@junkwaxdata.com)**.
+For any inquiries, please reach out to us at [**support@junkwaxdata.com**](mailto\:support@junkwaxdata.com).
+

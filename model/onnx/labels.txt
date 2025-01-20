@@ -1,13 +1,22 @@
-1984 Topps
-1987 Topps
-1988 Topps
-1989 Bowman
-1989 Fleer
-1989 Topps
-1989 Upper Deck
-1990 Donruss
-1990 Topps
-1991 Upper Deck
-1992 Upper Deck
-1993 Topps
-1994 Score
+1984|Topps
+1987|Topps
+1988|Score
+1988|Topps
+1989|Bowman
+1989|Donruss
+1989|Fleer
+1989|Score
+1989|Topps
+1989|Upper Deck
+1990|Donruss
+1990|Leaf
+1990|Leaf|Pack
+1990|Topps
+1991|Leaf
+1991|Upper Deck
+1992|Fleer
+1992|Fleer Ultra
+1992|Pinnacle
+1992|Upper Deck
+1993|Topps
+1994|Score
