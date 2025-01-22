@@ -70,7 +70,7 @@ Feel free to explore the `src` folder for detailed implementation examples. Cont
 
 ## Contributing 🤝
 
-We encourage community contributions! Whether it's submitting your own example project or improving documentation, we welcome your input. Please follow our [Contributing Guidelines](CONTRIBUTING.md) when submitting pull requests.
+We encourage community contributions! Whether it's submitting your own example project or improving documentation, we welcome your input.
 
 ## License 📄
 
@@ -78,5 +78,5 @@ This project is licensed under the [MIT License](LICENSE). By contributing, you 
 
 ## Contact 📬
 
-For any inquiries, please reach out to us at [**support@junkwaxdata.com**](mailto\:support@junkwaxdata.com).
+For any inquiries, please reach out to us at [**eric@junkwaxdata.com**](mailto\:eric@junkwaxdata.com).
 
