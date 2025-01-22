@@ -3,11 +3,11 @@
   "Platform": "ONNX",
   "Flavor": null,
   "ExporterVersion": "2.0",
-  "ExportedDate": "2025-01-20T21:04:41.1626904Z",
-  "IterationId": "ae0dc2df-5cc0-4d92-8f01-284700a41d22",
+  "ExportedDate": "2025-01-22T00:57:37.0036894Z",
+  "IterationId": "a12e52dc-a6fb-4251-8e7f-5e26cf176a2c",
   "ModelFileName": "model.onnx",
   "LabelFileName": "labels.txt",
   "MetadataPropsFileName": "metadata_properties.json",
-  "ModelFileSHA1": "c38731de5d98a330b3a833597dfd0e00901db141",
+  "ModelFileSHA1": "86ba68caf7d72d7d9d14639aacbff65e20439a45",
   "SchemaVersion": "1.0"
 }

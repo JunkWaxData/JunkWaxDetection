@@ -1,5 +1,7 @@
 1984|Topps
+1987|Fleer
 1987|Topps
+1988|Donruss
 1988|Score
 1988|Topps
 1989|Bowman
@@ -16,7 +18,10 @@
 1991|Upper Deck
 1992|Fleer
 1992|Fleer Ultra
+1992|O-Pee-Chee Premiere
 1992|Pinnacle
 1992|Upper Deck
 1993|Topps
+1994|Leaf
+1994|Pinnacle
 1994|Score
