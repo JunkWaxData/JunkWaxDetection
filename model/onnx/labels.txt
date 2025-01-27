@@ -1,7 +1,10 @@
+1982|Donruss
 1984|Topps
 1987|Fleer
 1987|Topps
 1988|Donruss
+1988|Fleer
+1988|Fleer|Pack
 1988|Score
 1988|Topps
 1989|Bowman
@@ -11,17 +14,30 @@
 1989|Topps
 1989|Upper Deck
 1990|Donruss
+1990|Fleer|Pack
 1990|Leaf
 1990|Leaf|Pack
 1990|Topps
+1990|Upper Deck|High Series|Pack
+1991|Fleer Ultra
 1991|Leaf
+1991|Leaf|Pack
 1991|Upper Deck
+1991|Upper Deck|Low Series|Pack
 1992|Fleer
 1992|Fleer Ultra
+1992|Fleer|Pack
 1992|O-Pee-Chee Premiere
 1992|Pinnacle
+1992|Pinnacle|Pack
 1992|Upper Deck
+1992|Upper Deck|High Series|Pack
+1993|Fleer|Series 1|Pack
+1993|Fleer|Series 2|Pack
 1993|Topps
 1994|Leaf
 1994|Pinnacle
 1994|Score
+1995|Leaf
+1995|Select
+1996|Pinnacle
