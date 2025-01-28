@@ -4,14 +4,14 @@ Welcome to the repository **JunkWaxDetection**, hosted by the GitHub organizatio
 
 ## Model Overview 🧠
 
-- **Model Version:** Iteration 22
+- **Model Version:** Iteration 24
 - **Domain:** General (compact) [S1]
 
 ### Performance Metrics 📊
 
-- **Precision:** 99.0%
-- **Recall:** 96.7%
-- **mAP:** 98.5%
+- **Precision:** 98.3%
+- **Recall:** 95.6%
+- **mAP:** 98.6%
 
 ### Performance Per Tag 🏷️
 
@@ -21,45 +21,51 @@ Welcome to the repository **JunkWaxDetection**, hosted by the GitHub organizatio
 | 1984 Topps                       | 100.0%    | 100.0% | 100.0%                 |
 | 1987 Fleer                       | 100.0%    | 95.5%  | 95.5%                  |
 | 1987 Topps                       | 100.0%    | 100.0% | 100.0%                 |
-| 1988 Donruss                     | 95.5%     | 100.0% | 100.0%                 |
-| 1988 Fleer                       | 100.0%    | 71.4%  | 90.5%                  |
-| 1988 Fleer Pack                  | 100.0%    | 100.0% | 100.0%                 |
+| 1988 Donruss                     | 91.3%     | 100.0% | 100.0%                 |
+| 1988 Fleer                       | 100.0%    | 76.2%  | 95.2%                  |
+| 1988 Fleer Pack                  | 100.0%    | 87.5%  | 100.0%                 |
 | 1988 Score                       | 100.0%    | 100.0% | 100.0%                 |
-| 1988 Topps                       | 100.0%    | 95.8%  | 100.0%                 |
-| 1989 Bowman                      | 100.0%    | 94.7%  | 99.7%                  |
+| 1988 Topps                       | 96.0%     | 100.0% | 100.0%                 |
+| 1988 Topps Pack                  | 100.0%    | 100.0% | 100.0%                 |
+| 1989 Bowman                      | 100.0%    | 94.7%  | 100.0%                 |
 | 1989 Donruss                     | 100.0%    | 94.7%  | 100.0%                 |
 | 1989 Fleer                       | 100.0%    | 100.0% | 100.0%                 |
 | 1989 Score                       | 100.0%    | 100.0% | 100.0%                 |
-| 1989 Topps                       | 95.0%     | 90.5%  | 95.0%                  |
+| 1989 Topps                       | 95.0%     | 90.5%  | 90.5%                  |
+| 1989 Topps Pack                  | 100.0%    | 83.3%  | 91.0%                  |
 | 1989 Upper Deck                  | 100.0%    | 92.3%  | 100.0%                 |
 | 1990 Donruss                     | 100.0%    | 100.0% | 100.0%                 |
-| 1990 Fleer Pack                  | 92.3%     | 100.0% | 100.0%                 |
-| 1990 Leaf                        | 94.7%     | 94.7%  | 99.3%                  |
-| 1990 Leaf Pack                   | 100.0%    | 100.0% | 100.0%                 |
+| 1990 Fleer                       | 88.6%     | 96.9%  | 95.7%                  |
+| 1990 Fleer Pack                  | 100.0%    | 100.0% | 100.0%                 |
+| 1990 Leaf                        | 100.0%    | 100.0% | 100.0%                 |
+| 1990 Leaf Pack                   | 100.0%    | 80.0%  | 100.0%                 |
 | 1990 Topps                       | 100.0%    | 100.0% | 100.0%                 |
-| 1990 Upper Deck High Series Pack | 100.0%    | 95.7%  | 99.5%                  |
-| 1991 Fleer Ultra                 | 100.0%    | 100.0% | 100.0%                 |
+| 1990 Upper Deck High Series Pack | 100.0%    | 91.3%  | 100.0%                 |
+| 1991 Fleer Ultra                 | 100.0%    | 97.5%  | 100.0%                 |
 | 1991 Leaf                        | 100.0%    | 90.9%  | 95.5%                  |
-| 1991 Leaf Pack                   | 100.0%    | 100.0% | 100.0%                 |
+| 1991 Leaf Pack                   | 100.0%    | 75.0%  | 100.0%                 |
+| 1991 Topps                       | 92.9%     | 81.3%  | 97.2%                  |
+| 1991 Topps Pack                  | 100.0%    | 91.7%  | 100.0%                 |
 | 1991 Upper Deck                  | 100.0%    | 89.5%  | 94.7%                  |
-| 1991 Upper Deck Low Series Pack  | 100.0%    | 96.0%  | 99.6%                  |
+| 1991 Upper Deck Low Series Pack  | 100.0%    | 96.0%  | 98.9%                  |
 | 1992 Fleer                       | 100.0%    | 100.0% | 100.0%                 |
 | 1992 Fleer Ultra                 | 100.0%    | 100.0% | 100.0%                 |
-| 1992 Fleer Pack                  | 100.0%    | 75.0%  | 75.0%                  |
-| 1992 O-Pee-Chee Premiere         | 100.0%    | 94.7%  | 94.7%                  |
-| 1992 Pinnacle                    | 100.0%    | 100.0% | 100.0%                 |
+| 1992 Fleer Pack                  | 100.0%    | 50.0%  | 91.7%                  |
+| 1992 O-Pee-Chee Premiere         | 100.0%    | 94.7%  | 99.7%                  |
+| 1992 Pinnacle                    | 100.0%    | 94.4%  | 99.7%                  |
 | 1992 Pinnacle Pack               | 100.0%    | 85.7%  | 100.0%                 |
-| 1992 Upper Deck                  | 100.0%    | 87.5%  | 95.7%                  |
+| 1992 Upper Deck                  | 95.5%     | 87.5%  | 87.5%                  |
 | 1992 Upper Deck High Series Pack | 100.0%    | 100.0% | 100.0%                 |
+| 1993 Fleer                       | 100.0%    | 95.0%  | 99.8%                  |
 | 1993 Fleer Series 1 Pack         | 100.0%    | 100.0% | 100.0%                 |
-| 1993 Fleer Series 2 Pack         | 100.0%    | 100.0% | 100.0%                 |
-| 1993 Topps                       | 95.2%     | 90.9%  | 99.0%                  |
-| 1994 Leaf                        | 100.0%    | 100.0% | 100.0%                 |
+| 1993 Fleer Series 2 Pack         | 95.0%     | 100.0% | 100.0%                 |
+| 1993 Topps                       | 86.4%     | 86.4%  | 98.1%                  |
+| 1994 Leaf                        | 95.7%     | 100.0% | 100.0%                 |
 | 1994 Pinnacle                    | 100.0%    | 100.0% | 100.0%                 |
 | 1994 Score                       | 100.0%    | 100.0% | 100.0%                 |
 | 1995 Leaf                        | 100.0%    | 100.0% | 100.0%                 |
 | 1995 Select                      | 95.5%     | 100.0% | 100.0%                 |
-| 1996 Pinnacle                    | 92.3%     | 100.0% | 100.0%                 |
+| 1996 Pinnacle                    | 100.0%    | 100.0% | 100.0%                 |
 
 ## Repository Structure 🗂
 
